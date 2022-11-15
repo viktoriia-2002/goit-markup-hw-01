@@ -20,7 +20,7 @@ body {
 }
 
 .btn {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-weight: 700;
   font-size: 16px;
   line-height: 1.9;
@@ -29,11 +29,10 @@ body {
 }
 /* yvaga do detalii */
 .subtitle {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 
 .pre-title {
@@ -128,13 +127,6 @@ body {
 
 /* ------------Section Solutions--------------*/
 
-.sub-title {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
 .specifics-text {
   font-size: 14px;
   line-height: 1.7;
@@ -185,6 +177,10 @@ footer {
   background-color: #2f303a;
 }
 
+.footer-logo-span {
+  color:#FFFFFF;
+}
+
 .our-team-subtitle {
   color: var(--primary-header-color);
 }
@@ -204,6 +200,7 @@ footer {
   letter-spacing: 0.03em;
   color: #ffffff;
 }
+
 
 .footer-link:hover,
 .footer-link:focus {
