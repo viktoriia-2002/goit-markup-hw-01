@@ -115,9 +115,11 @@ body {
   text-transform: uppercase;
   color: #ffffff;
 }
+
 .solutions {
   background-color: #2f303a;
 }
+
 .title {
   color: white;
 }
@@ -178,6 +180,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--secondary-color);
 }
+
 /* ------------Our-team--------------*/
 
 footer {
@@ -227,6 +230,7 @@ footer {
 .footer-link-address:hover {
   color: var(--accent-color);
 }
+
 /* ------------Portfolio-second-page--------------*/
 
 .portfolio-btn {
@@ -254,4 +258,8 @@ footer {
   line-height: 1.9;
   letter-spacing: 0.03em;
   color: var(--secondary-color);
+}
+
+colgroup{
+  color: #212121;
 }
