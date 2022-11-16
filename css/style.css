@@ -140,6 +140,11 @@ body {
 /* ------------specifics--------------*/
 
 .specifics-subtitle {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: var(--primary-header-color);
 }
 
@@ -180,7 +185,7 @@ footer {
 }
 
 .footer-logo-span {
-  color:#FFFFFF;
+  color: #ffffff;
 }
 
 .our-team-subtitle {
@@ -202,7 +207,6 @@ footer {
   letter-spacing: 0.03em;
   color: #ffffff;
 }
-
 
 .footer-link:hover,
 .footer-link:focus {
@@ -228,7 +232,12 @@ footer {
 .portfolio-btn {
   color: var(--primary-header-color);
   background: #f5f4fa;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
   border-radius: 4px;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
 .our-portfolio-title {
